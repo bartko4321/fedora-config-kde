@@ -1,4 +1,4 @@
-# 🚀 Fedora 44 + KDE Plasma — Kompleksowy Skrypt Post-Install
+# 🚀 Fedora + KDE Plasma — Kompleksowy Skrypt Post-Install
 
 ![Fedora](https://img.shields.io/badge/Fedora-44-blue?style=for-the-badge&logo=fedora&logoColor=white)
 ![KDE Plasma](https://img.shields.io/badge/KDE-Plasma%206-indigo?style=for-the-badge&logo=kde&logoColor=white)
