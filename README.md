@@ -67,8 +67,8 @@ Aby skrypt `install.sh` zadziałał poprawnie i znalazł wszystkie wymagane zale
 
 ### 1. Sklonuj swoje repozytorium
 ```bash
-git clone https://github.com/TWOJA_NAZWA/NAZWA_REPOZYTORIUM.git
-cd NAZWA_REPOZYTORIUM
+git clone https://github.com/bartko4321/fedora-config-kde.git
+cd fedora-config-kde
 ```
 
 ### 2. Nadaj uprawnienia do wykonywania skryptu
