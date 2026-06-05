@@ -1,0 +1,20 @@
+[Desktop Entry]
+Categories=Network
+Comment[pl_PL]=Poczta Gmail
+Comment=Poczta Gmail
+Exec=/usr/bin/google-chrome-stable 'https://mail.google.com/mail/u/0/?tab=rm&ogbl'
+GenericName[pl_PL]=Gmail
+GenericName=Poczta Gmail
+Icon=kmail
+MimeType=
+Name[pl_PL]=Gmail
+Name=Gmail
+NoDisplay=false
+Path=
+PrefersNonDefaultGPU=false
+StartupNotify=true
+Terminal=false
+TerminalOptions=
+Type=Application
+X-KDE-SubstituteUID=false
+X-KDE-Username=
