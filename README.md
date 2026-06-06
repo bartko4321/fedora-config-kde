@@ -90,7 +90,7 @@ Po zakończeniu wszystkich operacji i uprzątnięciu tymczasowych uprawnień, sy
 ## ⚠️ Bezpieczeństwo i Dobre Praktyki
 
 1. **Prywatność danych (`.config` / `.local`):** Zanim spakujesz i wypchniesz foldery konfiguracyjne na publicznego GitHuba, dokładnie sprawdź, czy nie zawierają one poufnych plików (np. tokenów Discorda, sesji przeglądarek, kluczy API, konfiguracji SSH czy zapamiętanych haseł). Jeśli chcesz coś wykluczyć, stwórz plik `.gitignore`.
-2. **Świeża instalacja:** Skrypt został zoptymalizowany pod kątem uruchamiania na świeżym systemie Fedora 44 KDE Spin. Użycie go na systemie, z którego korzystasz od miesięcy, zastąpi Twoje bieżące pliki konfiguracyjne w `/home/`.
+2. **Świeża instalacja:** Skrypt został zoptymalizowany pod kątem uruchamiania na świeżym systemie Fedora KDE Spin. Użycie go na systemie, z którego korzystasz od miesięcy, zastąpi Twoje bieżące pliki konfiguracyjne w `/home/`.
 
 ---
 <sub>Stworzono dla maksymalnej automatyzacji i wygody pracy z Fedorą. 🐧⚙️</sub>
