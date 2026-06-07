@@ -87,6 +87,8 @@ Po zakończeniu wszystkich operacji i uprzątnięciu tymczasowych uprawnień, sy
 
 ---
 
+Wsparcie numer konta: 06291000060000000005038936
+
 ## ⚠️ Bezpieczeństwo i Dobre Praktyki
 
 1. **Prywatność danych (`.config` / `.local`):** Zanim spakujesz i wypchniesz foldery konfiguracyjne na publicznego GitHuba, dokładnie sprawdź, czy nie zawierają one poufnych plików (np. tokenów Discorda, sesji przeglądarek, kluczy API, konfiguracji SSH czy zapamiętanych haseł). Jeśli chcesz coś wykluczyć, stwórz plik `.gitignore`.
