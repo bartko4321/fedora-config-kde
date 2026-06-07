@@ -94,5 +94,7 @@ Wsparcie numer konta: 06291000060000000005038936
 1. **Prywatność danych (`.config` / `.local`):** Zanim spakujesz i wypchniesz foldery konfiguracyjne na publicznego GitHuba, dokładnie sprawdź, czy nie zawierają one poufnych plików (np. tokenów Discorda, sesji przeglądarek, kluczy API, konfiguracji SSH czy zapamiętanych haseł). Jeśli chcesz coś wykluczyć, stwórz plik `.gitignore`.
 2. **Świeża instalacja:** Skrypt został zoptymalizowany pod kątem uruchamiania na świeżym systemie Fedora KDE Spin. Użycie go na systemie, z którego korzystasz od miesięcy, zastąpi Twoje bieżące pliki konfiguracyjne w `/home/`.
 
+ Jeśli projekt Ci się podoba, zostaw gwiazdkę! ⭐
+
 ---
 <sub>Stworzono dla maksymalnej automatyzacji i wygody pracy z Fedorą. 🐧⚙️</sub>
