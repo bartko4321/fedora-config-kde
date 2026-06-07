@@ -4,7 +4,7 @@
 ![KDE Plasma](https://img.shields.io/badge/KDE-Plasma%206-indigo?style=for-the-badge&logo=kde&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell-Bash%20%26%20Zsh-emerald?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-Potężny, w pełni zautomatyzowany skrypt konfiguracyjny dedykowany dla dystrybucji **Fedora 44** ze środowiskiem **KDE Plasma**. Automatyzuje proces optymalizacji systemu, konfiguracji sterowników graficznych, instalacji najważniejszego oprogramowania oraz pełnej personalizacji wyglądu (dot-files, ikony, tapety).
+Potężny, w pełni zautomatyzowany skrypt konfiguracyjny dedykowany dla dystrybucji **Fedora** ze środowiskiem **KDE Plasma**. Automatyzuje proces optymalizacji systemu, konfiguracji sterowników graficznych, instalacji najważniejszego oprogramowania oraz pełnej personalizacji wyglądu (dot-files, ikony, tapety).
 
 ---
 
