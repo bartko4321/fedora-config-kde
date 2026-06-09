@@ -68,7 +68,6 @@ For the `install.sh` script to work correctly and find all required dependencies
 ### 1. Clone your repository
 ```bash
 git clone https://github.com/bartko4321/fedora-config-kde.git
-cd fedora-config-kde
 ```
 
 ### 2. Enter the downloaded folder
