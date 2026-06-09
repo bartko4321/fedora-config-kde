@@ -71,12 +71,17 @@ git clone https://github.com/bartko4321/fedora-config-kde.git
 cd fedora-config-kde
 ```
 
-### 2. Make the script executable
+### 2. Enter the downloaded folder
+```bash
+cd fedora-config-kde
+```
+
+### 3. Make the script executable
 ```bash
 chmod +x install.sh
 ```
 
-### 3. Run the script as a regular user
+### 4. Run the script as a regular user
 > ⚠️ **IMPORTANT:** Do **NOT** run the script directly with `sudo ./install.sh` or from the root account. The script is smart — it will elevate privileges via `sudo` only when needed, and this ensures it correctly reads the paths to your home directory `/home/`.
 
 ```bash
